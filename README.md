@@ -1,7 +1,7 @@
 # Desafio de Apredisagem nodeJS
 #### dificuldade: nível 1
 
-Este desafio é para as pessoas que estão em treinamento ou entrandando na empresa Urcx como desenvolvedor nodeJs.
+Este desafio é para as pessoas que estão em treinamento ou processo seletivo na empresa Urcx como desenvolvedor nodeJs.
 
 ## Objetivo
 Este Desafio tem como objetivo em avaliar:
@@ -10,7 +10,7 @@ Este Desafio tem como objetivo em avaliar:
  - Codificação do projeto
  - Abilidades com as ferramentas
 
-## Como proceder o Desafo
+## Como proceder o Desafio
 Para inicar o desafio, primeiramente faça um Fork deste projeto para sua conta no github.
 O projeto é obrigatório segui o modelo do [git flow](http://dominhhai.github.io/git-flow-cheatsheet/index.pt_BR.html).
 Ao termino do desafio, informe a pessoa responsável por você via email com o link do seu repostório do desafio.
