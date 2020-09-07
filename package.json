@@ -1,0 +1,22 @@
+{
+  "name": "desafio-node-nivel1",
+  "version": "1.0.0",
+  "description": "Este desafio é para as pessoas que estão em treinamento ou processo seletivo na empresa Urcx como desenvolvedor nodeJs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fexdelux/desafio-node-nivel1.git"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/fexdelux/desafio-node-nivel1/issues"
+  },
+  "homepage": "https://github.com/fexdelux/desafio-node-nivel1#readme",
+  "dependencies": {
+    "restify": "^8.5.1"
+  }
+}
