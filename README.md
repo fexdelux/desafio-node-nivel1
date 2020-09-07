@@ -1,4 +1,4 @@
-# Desafio de Apredisagem nodeJS
+# Desafio de Aprendizagem nodeJS
 #### dificuldade: nível 1
 
 Este desafio é para as pessoas que estão em treinamento ou processo seletivo na empresa Urcx como desenvolvedor nodeJs.
