@@ -1,6 +1,6 @@
 {
   "name": "desafio-node-nivel1",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Este desafio é para as pessoas que estão em treinamento ou processo seletivo na empresa Urcx como desenvolvedor nodeJs.",
   "main": "index.js",
   "scripts": {
